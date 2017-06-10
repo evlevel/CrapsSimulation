@@ -1,4 +1,4 @@
-
+// foo
 public class CrapsGame
 {
 	private int point;
